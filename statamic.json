@@ -1,5 +1,4 @@
-{
-  "events": [
+[
     {
       "id": 123,
       "category": "animal welfare",
@@ -40,5 +39,5 @@
       "time": "12:00",
       "organizer": "Philippe Gauthier"
     }
-  ]
-}
+]
+
