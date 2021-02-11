@@ -1,15 +1,44 @@
 {
-  "events": [{
-    "id": "41917bc3-4669-4754-b12b-5033473977f5",
-    "title": "383 Acacia Drive",
-    "content": null
-  }, {
-    "id": "7dd8a33b-d498-4990-a3e7-9d3da9d6cbd4",
-    "title": "Additional Renderings",
-    "content": null
-  }, {
-    "id": "65881500-2e32-44eb-9026-0e53dc29cdcc",
-    "title": "Bollig Residence",
-    "content": null
-  }]
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 790,
+      "category": "desire",
+      "title": "Rave",
+      "description": "Let's all take drugs and rave",
+      "location": "2324 SE 26th",
+      "date": "July 29, 2022",
+      "time": "12:00",
+      "organizer": "Philippe Gauthier"
+    }
+  ]
 }
