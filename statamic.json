@@ -71,33 +71,5 @@
     "id": "0251d821-379a-4900-a846-48ebb1d1af81",
     "title": "St. Francis De Asis Catholic Church",
     "content": null
-  }],
-  "links": {
-    "first": "https:\/\/overman.test\/api\/collections\/projects\/entries?page=1",
-    "last": "https:\/\/overman.test\/api\/collections\/projects\/entries?page=1",
-    "prev": null,
-    "next": null
-  },
-  "meta": {
-    "current_page": 1,
-    "from": 1,
-    "last_page": 1,
-    "links": [{
-      "url": null,
-      "label": "&laquo; Previous",
-      "active": false
-    }, {
-      "url": "https:\/\/overman.test\/api\/collections\/projects\/entries?page=1",
-      "label": 1,
-      "active": true
-    }, {
-      "url": null,
-      "label": "Next &raquo;",
-      "active": false
-    }],
-    "path": "https:\/\/overman.test\/api\/collections\/projects\/entries",
-    "per_page": 25,
-    "to": 18,
-    "total": 18
-  }
+  }]
 }
